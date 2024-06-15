@@ -3,7 +3,7 @@ const printDetails = function (city, state) {
 };
 
 const person1 = {
-  fname: "Sachin",
+  fname: "Sachin Ramesh",
   lname: "Tendulkar",
 };
 
